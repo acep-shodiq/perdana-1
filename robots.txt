@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://acep-shodiq.github.io/perdana-1/sitemap.xml
